@@ -1,0 +1,15 @@
+
+
+On considere une liste de blocs TINY, et TINY est une constante.
+Est-ce que ca a du sens de vouloir faire de la defragmentation ? Je pense que non puisque les blocs doivent avoir une taille fixe ... ou bien je me trompe ? On va pas fusionner 2 blocs car sinon ca nous fait un bloc de taille (TINY * 2) et donc la consigne n'est plus respectee.
+Pourtant la defragmentation c'est un bonus du sujet, donc il faudrait que je comprenne ce qu'ils veulent ... car le sujet semble se contredire, ou alors je n'ai pas bien compris.
+
+
+
+
+
+
+
+
+
+
